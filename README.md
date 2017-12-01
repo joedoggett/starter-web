@@ -14,3 +14,6 @@ simple web project deployable anywhere.
 
 ## How to contribute
 this section would contain information on how to contribute.
+
+###Copyright
+added copyright notice to simple.html
