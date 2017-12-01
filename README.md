@@ -17,3 +17,6 @@ this section would contain information on how to contribute.
 
 ###Copyright
 added copyright notice to simple.html
+
+###Update
+please update and merge branches
